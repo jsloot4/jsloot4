@@ -1,4 +1,4 @@
-## Hi there 👋
+## Howdy! 🤠👋
 
 <!--
 **jsloot4/jsloot4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I'm currently studying Astronomy
+- 🤖 And doing a minor in AI
+- ♀️♂️ Pronouns: she/her
+- 🌈 Ace of spades ♠️🃏
+- ♏ (Astronomy ≠ astrology!!!) but I am a scorpio🦂
+- 🦐 LOVE these 2 emojis in github 🐙
+- 🌍 Fun fact: I know all Eurovision winners :) 

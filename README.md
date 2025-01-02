@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🦐 LOVE these 2 emojis in github 🐙
+
 -->
 
 - 🔭 I'm currently studying Astronomy
 - 🤖 And doing a minor in AI
 - ♀️♂️ Pronouns: she/her
 - 🌈 Ace of spades ♠️🃏
-- ♏ (Astronomy ≠ astrology!!!) but I am a scorpio🦂
-- 🦐 LOVE these 2 emojis in github 🐙
 - 🌍 Fun fact: I know all Eurovision winners :) 
